@@ -342,7 +342,7 @@ def main():
         return
 
     while True:
-        print("\n===== 功能菜单 =====")
+        print("\n===== 功能菜单1 =====")
         print("1. 展示有向图")
         print("2. 查询桥接词")
         print("3. 根据桥接词生成新文本")

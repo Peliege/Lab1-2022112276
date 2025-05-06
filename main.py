@@ -8,7 +8,6 @@ import networkx as nx
 
 #注释测试
 
-
 class TextGraph:
     def __init__(self):
         self.graph = defaultdict(dict)
